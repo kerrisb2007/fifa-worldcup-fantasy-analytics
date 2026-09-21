@@ -1,10 +1,5 @@
 FIFA World Cup Fantasy Analytics & Pacing Matrix
-<div align="center">
-  <video src="https://github.com/kerrisb2007/fifa-worldcup-fantasy-analytics/raw/refs/heads/main/dashboard-preview.mp4" width="100%" controls>
-      Your browser does not support the video tag.
-  </video>
-</div>
-
+https://github.com/kerrisb2007/fifa-worldcup-fantasy-analytics/raw/refs/heads/main/dashboard-preview.mp4
 
 An interactive Tableau dashboard that bridges traditional soccer analytics with data models optimized for fantasy sports platforms. By mapping historical team consistency against match volatility, this project isolates the high-engagement, "high-variance" game environments that drive season-long fantasy lineups, user interaction, and prop-wagering behavior.
 Live Dashboard Link: https://public.tableau.com/views/FIFAWorldCupFantasyAnalyticsPacingMatrix/FIFAWorldCupFantasyAnalyticsMatrix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
