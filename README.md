@@ -1,5 +1,5 @@
 FIFA World Cup Fantasy Analytics & Pacing Matrix
-![Dashboard Preview](dashboard-preview-png.png)
+![Dashboard Preview](dashboard-preview.mp4)
 
 
 An interactive Tableau dashboard that bridges traditional soccer analytics with data models optimized for fantasy sports platforms. By mapping historical team consistency against match volatility, this project isolates the high-engagement, "high-variance" game environments that drive season-long fantasy lineups, user interaction, and prop-wagering behavior.
